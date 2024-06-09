@@ -1,0 +1,10 @@
+{
+    "name": "tas/generico",
+    "description": "sistema tas",
+    "type": "project",
+    "license": "gpl",
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
